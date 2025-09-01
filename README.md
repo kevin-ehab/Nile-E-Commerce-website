@@ -3,6 +3,10 @@
 Nile is a simple front-end **E-commerce web application** built with **HTML, CSS, and JavaScript**.  
 It showcases different product categories, a sidebar navigation, custom alert messages, and a contact section.  
 
+<p align="center">
+  <img src="static/logo.png" alt="Description" width="300"/>
+</p>
+
 ---
 
 ## 🚀 Features  
